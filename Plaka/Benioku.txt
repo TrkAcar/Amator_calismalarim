@@ -1,7 +1,0 @@
-Merhaba Bu Çalışmamızda Kolay Bir Şekilde Array(dizi) Kullanarak Türkiye'nin 81 İlini Yazdıran Bir Plaka Uygulaması Yaptık 
-
-Bu Proje C Dili İle Yazılmışdır <3
-
-Bu Projeyi SelahattinGngr ile beraber yapılmıştır
-
-SelahattinGngr Arkadaşımın bana bu yolda yardım etmesi ve benimle beraber çalışdığı için teşekkür ederim :D
